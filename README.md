@@ -10,16 +10,16 @@ I mainly code in Kotlin, C++.
 * GitHub stats:  
 <a href="https://github.com/sunny52525/github-readme-stats">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=sunny52525" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=sunny52525&theme=tokyonight" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=sunny52525&show_icons=true&line_height=27" alt="My github stats" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=sunny52525&show_icons=true&line_height=27&theme=radical" alt="My github stats" />
 </a>  
 
 
 
 
-> My: <a class="post" href="https://auth.geeksforgeeks.org/user/sunny52525/articles">Articles</a>
+>My <a class="post" href="https://auth.geeksforgeeks.org/user/sunny52525/articles">Articles</a>
 
 ## [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/sunny52525.svg?style=social&label=Follow%20%40sunny52525)](https://twitter.com/sunny52525)
 
