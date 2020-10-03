@@ -1,7 +1,7 @@
 ### Hello there 👋
 
 I am a 2nd Year Engineering Student from India.
-I mainly code in Kotlin, C++. 
+I mainly code in Kotlin, C++, JavaScript. 
 
 - 🌱 I’m currently learning Web Development
 - 👯 I’m looking to collaborate on Android open source projects
