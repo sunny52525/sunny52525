@@ -11,10 +11,10 @@ I code in Kotlin, C++, JavaScript.
 * GitHub stats:  
 <a href="https://github.com/sunny52525/github-readme-stats">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=sunny52525&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunny52525&theme=tokyonight" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=sunny52525&show_icons=true&line_height=27&theme=radical" alt="My github stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sunny52525&show_icons=true&line_height=27&theme=radical" alt="My github stats" />
 </a>  
 
 
